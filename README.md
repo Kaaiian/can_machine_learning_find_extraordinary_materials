@@ -1,5 +1,5 @@
 # Can machine learning find extraordinary materials
-A repository with machine vision code to explore "extrapolation" to extraordinary materials properties using machine learning.
+A repository with code to explore "extrapolation" to extraordinary materials properties using machine learning.
 
 
 ## Install dependencies via anaconda:
