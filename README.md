@@ -14,7 +14,7 @@ Run the following to activate environment:
 
 --------
 # Usage
-recreate results by running main.py
+Recreate results by running main.py
 
-get additional figures by running:
+Get additional figures by running:
 make_figs.py, get_pcd_property_prediction.py, and explore_act_vs_pred.py
