@@ -1,0 +1,6 @@
+__pychache__
+figures_default/*
+figures_missing_elem/*
+figures_missing_struct/*
+figures_post/*
+pred_vs_act_data/*
